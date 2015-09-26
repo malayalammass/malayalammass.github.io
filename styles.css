@@ -120,7 +120,7 @@ border:0px solid #616261; -webkit-border-radius: 37px; -moz-border-radius: 37px;
 	text-align:center;
 	height: 39px;
 	margin-left: 0px;
-	padding: 0px 0px 0px 400px;
+	left: 50%;
 }
 #buttons img {
 	margin-right: 10px;
