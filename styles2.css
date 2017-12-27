@@ -20,10 +20,6 @@ body{
 	background: url(images/menu.jpg) top repeat-x;
 }
 
-#foot_bg{
-	background: url(images/foot.jpg) bottom repeat-x;
-}
-
 #for_home{
 	background: url(images/for_home.png) 0px 255px repeat-x;
 }
